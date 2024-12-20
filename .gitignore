@@ -1,0 +1,7 @@
+/.env
+/node_modules
+/pubic
+
+node_modules
+.env
+pubic
