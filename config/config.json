@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "root",
-    "password": null,
-    "database": "mazaim_db",
-    "host": "127.0.0.1",
+    "username": "uejwq9db5cqfgvfz",
+    "password": "I4Gappf8DWK4LeNZxqDh",
+    "database": "bswa0cornqd9aewp2mwr",
+    "host": "bswa0cornqd9aewp2mwr-mysql.services.clever-cloud.com",
     "dialect": "mysql"
   },
   "test": {
